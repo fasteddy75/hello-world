@@ -10,4 +10,4 @@ Nogmaals een tekst
 
 Kijken of dit werkt!
 
-**dit is vette tekst!
+**dit is vette tekst!**
